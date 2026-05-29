@@ -157,23 +157,23 @@ dist
 
 ## Landing Page
 
-(Add Screenshot Here)
+![login](screenshots/login.png)
 
 ## Dashboard
 
-(Add Screenshot Here)
+![Dashboard](screenshots/dashboard.png)
 
 ## AI Assistant
 
-(Add Screenshot Here)
+![AI](screenshots/ai.png)
 
 ## Messaging UI
 
-(Add Screenshot Here)
+![message](screenshots/message.png)
 
 ## Mobile Responsive UI
 
-(Add Screenshot Here)
+![mobview](screenshots/mobview.png)
 
 ---
 
