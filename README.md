@@ -78,7 +78,7 @@ src/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-social-dashboard-frontend.git
+git clone https://github.com/devanganasudheendran05-lang/ai-social-dashboard-frontend.git
 ```
 
 ---
